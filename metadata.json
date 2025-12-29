@@ -1,0 +1,7 @@
+{
+  "name": "Megan - Claims Conduit",
+  "description": "Megan is your Insurance Restoration Claims Conduit for XPRO ELITE EXTERIOR BUILDERS. She specializes in reading claim documents, drafting persuasive carrier communications, and explaining the restoration process to homeowners while ensuring IRC Chapter R8 & R9 compliance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
